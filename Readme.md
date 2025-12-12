@@ -51,4 +51,4 @@ Started with simple HTML — now I just vibe-code my way through Unreal Engine t
 
 ---
 
-<p align="center"><a href="README.bg.md">Bulgarian version</a></p>
+<p align="center"><a href="README.bg.md">Bulgarian version</a><p>
