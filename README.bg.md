@@ -51,4 +51,7 @@
 
 ---
 
-<p align="center"><a href="README.md">Английска версия</a></p>
+<p align="center">
+  <a href="README.md">EN</a> ·
+  <a href="README.bg.md">BG</a>
+</p>
